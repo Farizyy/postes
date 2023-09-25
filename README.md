@@ -7,4 +7,4 @@ Mohammad Imam Farizy | 2309116022 | Sistem Informasi A
 
 # Contoh Output awal sampai akhir
 
- <img width="244" alt="Screenshot 2023-09-25 221837" src="https://github.com/Farizyy/postes/assets/144855789/7a336e2d-5d1d-4fe3-bbca-d3ce6963fd72"
+ ![Screenshot 2023-09-25 221837](https://github.com/Farizyy/postes/assets/144855789/9ff79911-39b5-466d-8ca8-faecddab3b1d)
